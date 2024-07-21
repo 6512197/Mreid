@@ -62,7 +62,7 @@ El estudio de este EDA permite que se abra una miríada de posibilidades para in
 *  Financial times [https://www.ft.com/content/85c4bd8d-84a2-4008-b86a-946c14706b2e]
 * intellizence [https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/]
 * FT live  [https://usmergersandacquisitions.live.ft.com/]
-* Countey Codes [https://wits.worldbank.org/WITS/wits/WITSHELP/Content/Codes/Country_Codes.htm]
+* Country Codes [https://wits.worldbank.org/WITS/wits/WITSHELP/Content/Codes/Country_Codes.htm]
 ***
 ### Requirements
     numpy==1.21.6
