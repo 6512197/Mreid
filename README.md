@@ -1,4 +1,5 @@
-![Cabecero](.[image]([https://www.e-elgar.com/assets/Uploads/blocks/hero-banner/03a836f03a/Econs-Web-Image_ScaleMaxHeightWzY1MF0__ScaleMaxHeightWzY1MF0.jpg)](https://www.e-elgar.com/assets/Uploads/blocks/hero-banner/03a836f03a/Econs-Web-Image_ScaleMaxHeightWzY1MF0__ScaleMaxHeightWzY1MF0.jpg))
+![Cabecero](https://www.e-elgar.com/assets/Uploads/blocks/hero-banner/03a836f03a/Econs-Web-Image_ScaleMaxHeightWzY1MF0__ScaleMaxHeightWzY1MF0.jpg)
+
 
 
 # Análisis Exploratorio de Datos (EDA) The Multinational Revenue, Employment, and Investment Database 
