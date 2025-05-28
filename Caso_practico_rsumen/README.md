@@ -58,7 +58,7 @@ El estudio de este EDA permite que se abra una miríada de posibilidades para in
 * ¿Qué perspectivas de crecimiento económico tienen Japón y China en el futuro, y cómo podrían sus trayectorias de desarrollo influir en el equilibrio global?
 
 
-## Fuentes (some refences i used in order to help increase my understanding of the topic )
+## Fuentes 
 *  Financial times [https://www.ft.com/content/85c4bd8d-84a2-4008-b86a-946c14706b2e]
 * intellizence [https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/]
 * FT live  [https://usmergersandacquisitions.live.ft.com/]
