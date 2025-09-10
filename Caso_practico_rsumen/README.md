@@ -51,9 +51,9 @@ El presente análisis tiene como objetivo examinar un conjunto de datos del estu
 ### Futuras líneas de estudio
 El estudio de este EDA permite que se abra una miríada de posibilidades para investigaciones futuras. creemos que se puede continuar la investigación en torno a cuestiones como:
 
-* ¿Cómo evolucionará el valor del euro teniendo en cuenta su situación financiera actual y su relación con el dólar estadounidense?
+* ¿Cómo evolucionará el valor del euro € teniendo en cuenta su situación financiera actual y su relación con el dólar estadounidense?
 
-* ¿Cuál es el pronóstico para el futuro económico de África y cuántos años podrían pasar antes de que África alcance un nivel de desarrollo similar al de Estados Unidos? ¿Cómo se compara este desarrollo con los mercados actuales de América y Europa? (extensive mira el codebook africa has a big presence as a county_d) (Mreid part2 ,ML)
+* ¿Cuál es el pronóstico para el futuro económico de África y cuántos años podrían pasar antes de que África alcance un nivel de desarrollo similar al de Estados Unidos? ¿Cómo se compara este desarrollo con los mercados actuales de América y Europa? (extensive mira el codebook Africa has a big presence as a county_d) (Mreid part2 ,ML Optim)
 
 * ¿Qué perspectivas de crecimiento económico tienen Japón y China en el futuro, y cómo podrían sus trayectorias de desarrollo influir en el equilibrio global?
 
